@@ -1,7 +1,7 @@
 <h1>Hi, I'm Benjamin</h1>
 <h3>A programmer learning web development</h3>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on a **productivity website**
 
 - 🌱 I’m currently learning **React**
 
