@@ -1,11 +1,11 @@
 <h1>Hi, I'm Benjamin</h1>
 <h3>A programmer learning web development</h3>
 
-- 🔭 I’m currently working on a **productivity website**
+- 🔭 I’m currently working on a **team collaboration website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Python, Swift**
+- 💬 Ask me about **Python, React.js, Swift**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
